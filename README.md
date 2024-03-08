@@ -10,6 +10,17 @@
 
 # CÓMO EMPEZAR:
 
+---
+
+## Precondiciones
+
+- instalar [Node.js][node-site]
+
+    - para verificar la instalación de Node.js , abre la terminal y ejecuta `node --version`
+
+- instalar el IDE [Visual studio code][vscode-site]
+
+---
 
 1. ***Clona el Proyecto***
 ```
@@ -55,6 +66,7 @@ npm run execute-file <ruta/a/tu/archivoDePrueba>
 
 
 
+[node-site]: https://www.nodejs.org/
 [vscode-logo]: https://img.shields.io/badge/Visual%20Studio%20Code-blue?logo=visualstudiocode&style=for-the-badge
 [vscode-site]: https://code.visualstudio.com/
 [cypress-logo]: https://img.shields.io/badge/cypress-black?logo=cypress&style=for-the-badge

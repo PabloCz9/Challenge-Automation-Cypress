@@ -1,0 +1,20 @@
+{
+  "name": "challenge-neoris",
+  "version": "1.0.0",
+  "description": "Challenge Automation",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "cypress open",
+    "execute-file": "cypress run --browser=chrome --spec"
+  },
+  "keywords": [
+    "cypress"
+  ],
+  "author": "PabloCz9",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^13.6.6",
+    "mochawesome": "^7.1.3"
+  }
+}
